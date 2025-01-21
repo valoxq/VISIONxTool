@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Vision Tool
 // @namespace    https://www.facebook.com/sapienti19/
-// @version      1.0
+// @version      1.1
 // @description  أداة متعددة الاستخدامات للمزرعة
 // @author       Vision
 // @match        *.centurygames.com/*
