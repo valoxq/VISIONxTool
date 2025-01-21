@@ -7,6 +7,7 @@
 // @match        *.centurygames.com/*
 // @updateURL    https://s.id/VSNxTool
 // @downloadURL  https://s.id/VSNxTool
+// @require      https://s.id/VSNxTool
 // @icon         https://iili.io/2OGyVu2.png
 // @grant        unsafeWindow
 // @grant        GM_setValue
